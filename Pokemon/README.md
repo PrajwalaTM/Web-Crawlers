@@ -17,9 +17,9 @@ Given below are some of the tools to be installed:
 
 Run the following commands.
 
-git clone https://github.com/PrajwalaTM/Web-Crawlers.git  
-cd Web-Crawlers/Pokemon  
-scrapy crawl Pokemon  
+    git clone https://github.com/PrajwalaTM/Web-Crawlers.git  
+    cd Web-Crawlers/Pokemon  
+    scrapy crawl Pokemon  
 
 # Note :
 
