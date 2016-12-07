@@ -11,9 +11,9 @@ A simple python scrapy based web crawler which gives the titles of all the blogs
 
 Run the following commands.
 
-git clone https://github.com/PrajwalaTM/Web-Crawlers.git
-cd Web-Crawlers/tutsplus
-scrapy crawl tutsplus
+     git clone https://github.com/PrajwalaTM/Web-Crawlers.git
+     cd Web-Crawlers/tutsplus
+     scrapy crawl tutsplus
 
 NOTE :
 
