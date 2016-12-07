@@ -6,20 +6,20 @@ Given below are some of the tools to be installed:
 
 # Installation :
 
-1. `$ sudo apt-get install python-lxml libffi-dev  
-2. `$ sudo pip install Scrapy  
-3. `$ sudo pip install service_identity  
-4. `$ sudo pip uninstall pillow  
-5. `$ sudo apt-get install libjpeg-dev 
-6. `$ sudo pip install -I pillow  
+     `sudo apt-get install python-lxml libffi-dev   
+      sudo pip install Scrapy  
+      sudo pip install service_identity  
+      sudo pip uninstall pillow  
+      sudo apt-get install libjpeg-dev 
+      sudo pip install -I pillow  
 
 # Quick Start :
 
 Run the following commands.
 
-git clone https://github.com/PrajwalaTM/Web-Crawlers.git
-cd Web-Crawlers/Pokemon
-scrapy crawl Pokemon
+git clone https://github.com/PrajwalaTM/Web-Crawlers.git  
+cd Web-Crawlers/Pokemon  
+scrapy crawl Pokemon  
 
 # Note :
 
