@@ -1,0 +1,30 @@
+WEB CRAWLER
+
+Tutorials followed
+https://blog.siliconstraits.vn/building-web-crawler-scrapy/    (Basic Crawler )
+https://blogs.sequoiainc.com/python-web-crawling-with-scrapy/   (Crawler with Image Pipeline)
+
+
+What is web crawler? Why should I build it?
+https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch
+http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/?utm_source=quora&utm_medium=How+can+I+build+a+web+crawler+from+scratch%3F&utm_campaign=quora
+
+
+Websites crawled
+https://code.tutsplus.com/ (Crawler to obtain post titles)
+http://pokemondb.net/pokedex/national  (Crawler to download pokemon images)
+
+Items in scrapy
+https://doc.scrapy.org/en/latest/topics/items.html
+
+What are generators? What is yield?
+http://pythoncentral.io/python-generators-and-yield-keyword/
+http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do
+
+What is xpath?
+http://www.w3schools.com/xml/xpath_intro.asp
+http://www.w3schools.com/xml/xpath_nodes.asp
+http://www.w3schools.com/xml/xpath_syntax.asp
+
+Regular expressions in python
+https://docs.python.org/3/library/re.html
